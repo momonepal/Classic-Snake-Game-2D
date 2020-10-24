@@ -8,7 +8,7 @@ The classic 2D snake game built on Python using the turtle module.
 
 -------------------------------------------
 
-A demo:
-<img src='' width='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+A Video Walkthrough:
+<img src='https://i.imgur.com/gzgOidP.gif' width='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
